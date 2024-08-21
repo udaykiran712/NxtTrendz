@@ -1,4 +1,4 @@
-App Live Link: udayShoppingApp.ccbp.tech
+App Live Link: https://udayShoppingApp.ccbp.tech
 
 
 - Prime User credentials
